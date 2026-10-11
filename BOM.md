@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.electrokit.com/en/motstand-mf-0.5w-10k-0.1) | — | 1 | $0.00 | $0.00 | [Electrokit](https://www.electrokit.com/en/motstand-mf-0.5w-10k-0.1) |
 | [PCB](https://www.jlcpcb.com/) | — | 1 | $0.00 | $0.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$42.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$42.87** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$52.87** | — |
 
-**$12.87 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$22.87 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
