@@ -1,0 +1,11 @@
+Item, amount, cost (ea.), Link
+XIAO ESP32 C3, 1, 5.00, https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+0.96 OLED, 1, 13.73, https://www.electrokit.com/en/0.96lcd-oled-128x64px-blue-qwiic
+MPU6050, 1, 8.26, https://www.electrokit.com/en/mpu-6050-accelerometer-3-axel-gyro-monterad-pa-kort
+DHT11, 1, 5.10, https://www.electrokit.com/en/digital-temperatur-och-fuktsensor-dht11
+MX Switches, 10, 1.01, https://www.electrokit.com/en/tryckknapp-pcb-1-pol-kailh-brun-10-pack
+Keycaps, 2, 1.47, https://www.electrokit.com/en/cherry-mx-keycap-r2-opaque-black
+10k Resistor, 1, 0.82, https://www.electrokit.com/en/motstand-mf-0.5w-10k-0.1
+PCB,1,10.00,https://www.jlcpcb.com/
+,,,
+Total (each kit), 1, 61.25,
