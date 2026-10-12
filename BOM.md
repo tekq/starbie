@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.electrokit.com/en/motstand-mf-0.5w-10k-0.1) | Limit electric current | 1 | $0.82 | $0.82 | [Electrokit](https://www.electrokit.com/en/motstand-mf-0.5w-10k-0.1) |
 | [PCB](https://www.pcbway.com/) | The board itself | 1 | $5.00 | $5.00 | [PCBWAY](https://www.pcbway.com/) |
 | **Parts subtotal** | — | — | — | **$51.63** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$61.63** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$56.63** | — |
 
-**$31.63 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$26.63 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
